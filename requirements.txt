@@ -1,0 +1,5 @@
+Flask
+geopy
+requests
+folium
+google-generativeai

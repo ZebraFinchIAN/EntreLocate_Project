@@ -1,0 +1,1431 @@
+[
+  {
+    "type": "node",
+    "id": 1863718198,
+    "lat": 39.9641042,
+    "lon": 32.8109799,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Perihan Eczanesi",
+      "phone": "+90 312 315 41 37"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072911743,
+    "lat": 39.9704177,
+    "lon": 32.7804533,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Talip Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072911744,
+    "lat": 39.970387,
+    "lon": 32.7805426,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Şifa Pınarı Eczanesi",
+      "phone": "+90 312 346 0770"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072911745,
+    "lat": 39.970367,
+    "lon": 32.7806181,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Bulut Eczanesi",
+      "phone": "+90 312 334 3429"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072912904,
+    "lat": 39.9695248,
+    "lon": 32.7831893,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Bilge Şen Eczanesi",
+      "phone": "0312 346 03 37"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072912918,
+    "lat": 39.9694219,
+    "lon": 32.7835277,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "addr:street": "Vatan Caddesi",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Birinci Eczanesi",
+      "phone": "0312 346 81 40"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072933524,
+    "lat": 39.969946,
+    "lon": 32.7868606,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Özkaya Eczanesi",
+      "phone": "0312 334 37 53"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072933547,
+    "lat": 39.970077,
+    "lon": 32.7857182,
+    "tags": {
+      "addr:housenumber": "490/H",
+      "addr:street": "İvedik Caddesi",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yeni Bilim Eczanesi",
+      "phone": "+90 312 345 21 26"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072933796,
+    "lat": 39.9735723,
+    "lon": 32.788388,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yeni İnci Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072965384,
+    "lat": 39.977144,
+    "lon": 32.8042858,
+    "tags": {
+      "amenity": "pharmacy",
+      "check_date": "2025-05-20",
+      "healthcare": "pharmacy",
+      "name": "Kaşıkçı Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072966309,
+    "lat": 39.9740872,
+    "lon": 32.8104816,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Orkun Eczanesi",
+      "phone": "+90 312 343 8205"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072966319,
+    "lat": 39.9751904,
+    "lon": 32.8160054,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Bostancı Eczanesi",
+      "phone": "+90 312 327 2900"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4072966325,
+    "lat": 39.9749827,
+    "lon": 32.8160609,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Semt Eczanesi",
+      "phone": "+90 312 315 7565"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4073048804,
+    "lat": 39.980045,
+    "lon": 32.8229405,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Arslan Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4073048806,
+    "lat": 39.9806515,
+    "lon": 32.8225856,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "İrem Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4073048817,
+    "lat": 39.9829444,
+    "lon": 32.8203911,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Taylan Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4073048856,
+    "lat": 39.9835861,
+    "lon": 32.8177668,
+    "tags": {
+      "addr:city": "Keçiören/Ankara",
+      "addr:street": "Seval Cad.",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yeni Seval Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4073049909,
+    "lat": 39.9837321,
+    "lon": 32.8164449,
+    "tags": {
+      "addr:housenumber": "18/A",
+      "addr:street": "Seval Cad.",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Ayvalı Eczanesi",
+      "phone": "0312 330 40 60"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4074637703,
+    "lat": 39.9705593,
+    "lon": 32.8347964,
+    "tags": {
+      "addr:housenumber": "44/D",
+      "addr:street": "Etlik Caddesi",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Baykoç Eczanesi",
+      "phone": "+90 312 352 7272"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4074637752,
+    "lat": 39.971029,
+    "lon": 32.8334972,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "İhtisas Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4074637771,
+    "lat": 39.970761,
+    "lon": 32.8352202,
+    "tags": {
+      "addr:housenumber": "38/A",
+      "addr:street": "Mestan Sokak",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yeni Filiz Eczanesi",
+      "phone": "0312 352 03 56"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4074637773,
+    "lat": 39.9711009,
+    "lon": 32.8356602,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Haboğlu Eczanesi",
+      "phone": "+90 312 325 3380"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4074727573,
+    "lat": 39.9764882,
+    "lon": 32.8267253,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yeni Handan Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4076810388,
+    "lat": 39.9704228,
+    "lon": 32.799135,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Demetkent Ersan Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4082380111,
+    "lat": 39.9711615,
+    "lon": 32.8340609,
+    "tags": {
+      "addr:city": "Keçiören/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yetişir Eczanesi",
+      "phone": "0312 321 00 82"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4082380112,
+    "lat": 39.9737927,
+    "lon": 32.8290372,
+    "tags": {
+      "addr:city": "Keçiören/Ankara",
+      "amenity": "pharmacy",
+      "check_date": "2023-10-03",
+      "healthcare": "pharmacy",
+      "name": "Yeni Cengiz Eczanesi",
+      "phone": "0312 325 66 17"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4082380114,
+    "lat": 39.9741752,
+    "lon": 32.827244,
+    "tags": {
+      "addr:city": "Keçiören/Ankara",
+      "addr:street": "Ayvalı Cad.",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Ersan Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4084555723,
+    "lat": 39.9869077,
+    "lon": 32.819572,
+    "tags": {
+      "addr:city": "Keçiören/Ankara",
+      "addr:street": "Ayvalı Caddesi",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "İlkbahar Eczanesi",
+      "phone": "0312 331 60 88"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4084557729,
+    "lat": 39.9816429,
+    "lon": 32.8299413,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Saadet Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4086022801,
+    "lat": 39.9822113,
+    "lon": 32.7900143,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yeni Esin Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4086022812,
+    "lat": 39.9817432,
+    "lon": 32.7892741,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Elvan Tuğba Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4086022835,
+    "lat": 39.9728077,
+    "lon": 32.790218,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Gülistan Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4086022840,
+    "lat": 39.9730618,
+    "lon": 32.7904655,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Akar Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4086022845,
+    "lat": 39.9731656,
+    "lon": 32.7905613,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Edanur Eczanesi",
+      "phone": "0312 334 20 16"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4086022851,
+    "lat": 39.9740165,
+    "lon": 32.7920388,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Şark Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4086312158,
+    "lat": 39.9869291,
+    "lon": 32.8169799,
+    "tags": {
+      "addr:city": "Keçiören/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Beril Eczanesi",
+      "phone": "0312 331 96 41"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4262143608,
+    "lat": 39.9709012,
+    "lon": 32.8038971,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "addr:street": "Suadiye Caddesi",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Eryılmaz Eczanesi",
+      "phone": "0312 344 70 45"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4444521189,
+    "lat": 39.9601206,
+    "lon": 32.7910589,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Toprak Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4453744489,
+    "lat": 39.9641733,
+    "lon": 32.8008374,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Pınar Eczanesi",
+      "phone": "0312 345 15 48"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4477339591,
+    "lat": 39.9537171,
+    "lon": 32.7849907,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Ruşen Eczanesi",
+      "phone": "+90 312 397 1114"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4478361891,
+    "lat": 39.9639068,
+    "lon": 32.8146815,
+    "tags": {
+      "addr:housenumber": "83/B",
+      "addr:street": "Ragıp Tüzün Caddesi",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Ferda Eczanesi",
+      "phone": "+90 312 344 13 14"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4478427889,
+    "lat": 39.9759609,
+    "lon": 32.8259146,
+    "tags": {
+      "addr:housenumber": "72/A",
+      "addr:street": "Ayvalı Cad.",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Türkyılmaz Eczanesi",
+      "phone": "0312 325 82 37"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4481035291,
+    "lat": 39.9694772,
+    "lon": 32.7823735,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Çalık Eczanesi",
+      "phone": "0312 332 23 23"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4483645690,
+    "lat": 39.9637259,
+    "lon": 32.7885514,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Elifsu Eczanesi",
+      "phone": "0312 332 31 14"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4485020089,
+    "lat": 39.9625829,
+    "lon": 32.810626,
+    "tags": {
+      "addr:housenumber": "180",
+      "addr:street": "İvedik Caddesi",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yaren Eczanesi",
+      "phone": "+90 312 315 58 58"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4488969489,
+    "lat": 39.9667552,
+    "lon": 32.8081216,
+    "tags": {
+      "addr:housenumber": "72/A",
+      "addr:street": "Damladol Sokak",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yeni Hakan Eczanesi",
+      "phone": "+90 312 327 78 76"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4488969689,
+    "lat": 39.9632198,
+    "lon": 32.7885707,
+    "tags": {
+      "addr:housenumber": "61/A",
+      "addr:street": "358.Cadde (Demet 5)",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Gökçe Ceren Eczanesi",
+      "phone": "0312 336 09 87"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4491012090,
+    "lat": 39.9655078,
+    "lon": 32.805637,
+    "tags": {
+      "addr:housenumber": "42/A",
+      "addr:street": "Gürler Sokak",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Şeyda Eczanesi",
+      "phone": "+90 312 327 46 55"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4492936689,
+    "lat": 39.9651505,
+    "lon": 32.7924049,
+    "tags": {
+      "addr:street": "408.Cadde (Demet 1)",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Nalan Eczanesi",
+      "phone": "0312 335 11 99"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4494836194,
+    "lat": 39.9806029,
+    "lon": 32.8056457,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Okan Eczanesi",
+      "phone": "+90 312 315 63 11"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4496388791,
+    "lat": 39.9654556,
+    "lon": 32.794797,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Metro Eczanesi",
+      "opening_hours": "24/7",
+      "phone": "0312 336 78 40"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4499074589,
+    "lat": 39.965526,
+    "lon": 32.792863,
+    "tags": {
+      "addr:housenumber": "14/A",
+      "addr:street": "408.Cadde (Demet 1)",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Dolunay Eczanesi",
+      "phone": "0312 334 74 00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4502725092,
+    "lat": 39.963534,
+    "lon": 32.788431,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Cemre Eczanesi",
+      "phone": "0312 336 91 46"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4514710389,
+    "lat": 39.9714501,
+    "lon": 32.7916163,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Kübra Eczanesi",
+      "phone": "0312 346 15 65"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4517775089,
+    "lat": 39.9627503,
+    "lon": 32.788466,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yeni Bilir Eczanesi",
+      "phone": "0312 334 91 54"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4519283990,
+    "lat": 39.9672125,
+    "lon": 32.7878702,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Türkan Eczanesi",
+      "phone": "0312 345 10 98"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4521302795,
+    "lat": 39.9672387,
+    "lon": 32.7897035,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Öz Vatan Eczanesi",
+      "phone": "0312 345 93 39"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4523847290,
+    "lat": 39.9624216,
+    "lon": 32.7918743,
+    "tags": {
+      "addr:housenumber": "53/A",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Aynur Eczanesi",
+      "phone": "0312 332 36 00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4526674089,
+    "lat": 39.9711592,
+    "lon": 32.7921349,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Karşıyaka Eczanesi",
+      "phone": "0312 346 25 66"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4534755993,
+    "lat": 39.9732207,
+    "lon": 32.8307299,
+    "tags": {
+      "addr:housenumber": "101/18",
+      "addr:street": "Etlik Cad.",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Alakuş Eczanesi",
+      "phone": "0312 322 63 93"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4548903290,
+    "lat": 39.9722081,
+    "lon": 32.8073652,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yeni Betül Eczanesi",
+      "phone": "0312 344 44 31"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4552570491,
+    "lat": 39.9711921,
+    "lon": 32.7916574,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Çalışkan Eczanesi",
+      "phone": "0312 334 27 67"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4561197371,
+    "lat": 39.9632887,
+    "lon": 32.788341,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Pektaş Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4564535091,
+    "lat": 39.965315,
+    "lon": 32.7833625,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "addr:street": "357. Cadde",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Nergiz Eczanesi",
+      "phone": "+90 312 345 3076"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4564687976,
+    "lat": 39.9620249,
+    "lon": 32.7808009,
+    "tags": {
+      "addr:city": "Yenimahalle/Ankara",
+      "addr:street": "383. Sokak",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yurtseven Sami Eczanesi",
+      "phone": "0312 346 04 02"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4584008789,
+    "lat": 39.980187,
+    "lon": 32.8294782,
+    "tags": {
+      "addr:housenumber": "40/A",
+      "addr:street": "Kuyuyazısı Caddesi",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Esengül Eczanesi",
+      "phone": "0312 322 08 18"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9415338483,
+    "lat": 39.9559246,
+    "lon": 32.832709,
+    "tags": {
+      "amenity": "pharmacy",
+      "dispensing": "yes",
+      "healthcare": "pharmacy",
+      "name": "Ulaş Eczanesi",
+      "phone": "+90 312 342 42 02"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9415338509,
+    "lat": 39.9575345,
+    "lon": 32.833709,
+    "tags": {
+      "amenity": "pharmacy",
+      "dispensing": "yes",
+      "healthcare": "pharmacy",
+      "name": "Begümhan Eczanesi",
+      "phone": "+90 312 341 70 80"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10580765843,
+    "lat": 39.9804115,
+    "lon": 32.8056244,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Gizem Eczanesi",
+      "phone": "+90 312 344 36 67"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10580765844,
+    "lat": 39.9839953,
+    "lon": 32.8085818,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Çağda Gizem Eczanesi",
+      "phone": "+90 312 331 00 10"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10580765845,
+    "lat": 39.9880074,
+    "lon": 32.8114666,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Aksu Eczanesi",
+      "phone": "+90 312 331 79 98"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10580765943,
+    "lat": 39.9835457,
+    "lon": 32.7967696,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Yazgan Eczanesi",
+      "phone": "+90 312 334 42 56"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10580765944,
+    "lat": 39.9821626,
+    "lon": 32.8052069,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Sarıkaya Eczanesi",
+      "phone": "+90 312 343 78 70"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10580766042,
+    "lat": 39.9838269,
+    "lon": 32.8002583,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Feyza Eczanesi",
+      "phone": "+90 312 330 51 15"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10580766043,
+    "lat": 39.9820672,
+    "lon": 32.8030788,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Merkez Eczanesi",
+      "phone": "+90 312 327 62 32"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10580766141,
+    "lat": 39.9854285,
+    "lon": 32.7992915,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Enise Eczanesi",
+      "phone": "+90 312 331 20 23"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10580766241,
+    "lat": 39.9814727,
+    "lon": 32.8056702,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Çamlıdere Eczanesi",
+      "phone": "+90 312 315 91 00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10580766341,
+    "lat": 39.9836705,
+    "lon": 32.8079037,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Balım Eczanesi",
+      "phone": "+90 312 504 59 72"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757018,
+    "lat": 39.9581823,
+    "lon": 32.8176107,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Yenimahalle Yılmaz Eczanesi",
+      "phone": "+90 312 315 82 29"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757019,
+    "lat": 39.9647501,
+    "lon": 32.8136762,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Nesli Eczanesi",
+      "phone": "+90 312 999 98 38"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757025,
+    "lat": 39.965725,
+    "lon": 32.8109676,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Gülcan Eczanesi",
+      "phone": "+90 312 315 10 05"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757027,
+    "lat": 39.9660074,
+    "lon": 32.810775,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Yenimahalle Merkez Eczanesi",
+      "phone": "+90 312 344 35 04"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757031,
+    "lat": 39.9651328,
+    "lon": 32.8086108,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Firdevs Eczanesi",
+      "phone": "+90 312 343 83 93"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757032,
+    "lat": 39.9657453,
+    "lon": 32.8088814,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Şahin Eczanesi",
+      "phone": "+90 312 344 79 85"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757033,
+    "lat": 39.9665902,
+    "lon": 32.8090627,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Avşar Eczanesi",
+      "phone": "+90 312 343 16 76"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757314,
+    "lat": 39.9660032,
+    "lon": 32.8124214,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Mehmet Özer Eczanesi",
+      "phone": "+90 312 223 74 58"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757514,
+    "lat": 39.966037,
+    "lon": 32.8105087,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Ayça Pekin Eczanesi",
+      "phone": "+90 312 343 19 34"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757516,
+    "lat": 39.9659813,
+    "lon": 32.8081225,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Yeni Derman Eczanesi",
+      "phone": "+90 312 315 58 94"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757607,
+    "lat": 39.9621791,
+    "lon": 32.8156477,
+    "tags": {
+      "addr:housenumber": "37/A",
+      "addr:street": "Ragıp Tüzün Caddesi",
+      "amenity": "pharmacy",
+      "name": "Dilara Işık Eczanesi",
+      "phone": "+90 312 999 93 46"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757805,
+    "lat": 39.9653666,
+    "lon": 32.8118264,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Akşit Eczanesi",
+      "phone": "+90 312 315 59 26"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10585757806,
+    "lat": 39.9633159,
+    "lon": 32.8084581,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Meşe Eczanesi",
+      "phone": "+90 312 315 58 58"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10758634505,
+    "lat": 39.9555752,
+    "lon": 32.79998,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Bereket Eczanesi",
+      "phone": "+90 312 315 3444"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10892777199,
+    "lat": 39.9622456,
+    "lon": 32.7822498,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Nazenin Eczanesi",
+      "phone": "+90 312 334 4242"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10892777241,
+    "lat": 39.9585459,
+    "lon": 32.7902307,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10892777242,
+    "lat": 39.9584449,
+    "lon": 32.7901988,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11005674905,
+    "lat": 39.9733386,
+    "lon": 32.8155485,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Lütuf Eczanesi",
+      "phone": "+90 312 343 4348"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11005675205,
+    "lat": 39.9729747,
+    "lon": 32.8174069,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Alkara Eczanesi",
+      "phone": "+90 312 327 2425"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11005675206,
+    "lat": 39.9741836,
+    "lon": 32.8173915,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Yeni Kardeşler Eczanesi",
+      "phone": "+90 312 327 3336"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11490991172,
+    "lat": 39.9718871,
+    "lon": 32.781193,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Özevler Eczanesi",
+      "phone": "+90 312 336 6031"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11490991173,
+    "lat": 39.9712195,
+    "lon": 32.7838811,
+    "tags": {
+      "addr:housenumber": "175/C",
+      "addr:street": "İvedik Caddesi",
+      "amenity": "pharmacy",
+      "name": "Süleyman Eczanesi",
+      "phone": "+90 312 346 3490"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11490991269,
+    "lat": 39.9732659,
+    "lon": 32.7825978,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Mert Eczanesi",
+      "phone": "+90 312 346 6516"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11490991369,
+    "lat": 39.9733521,
+    "lon": 32.7827483,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Erk Eczanesi",
+      "phone": "+90 312 335 6505"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11490991370,
+    "lat": 39.9697822,
+    "lon": 32.7809918,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Onur Erol Eczanesi",
+      "phone": "+90 312 334 9080"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11491009269,
+    "lat": 39.968191,
+    "lon": 32.7844531,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Yeni Yenen Eczanesi",
+      "phone": "+90 312 345 6114"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11491009369,
+    "lat": 39.9671859,
+    "lon": 32.7836595,
+    "tags": {
+      "addr:street": "357. Cd.",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Lokman Hekim Eczanesi",
+      "phone": "+90 312 336 3380"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11491009469,
+    "lat": 39.9637553,
+    "lon": 32.7828483,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Antakya Eczanesi",
+      "phone": "+90 505 746 3131"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11491009569,
+    "lat": 39.9632351,
+    "lon": 32.7805395,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Demetevler Eczanesi",
+      "phone": "+90 312 332 0070"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11932945769,
+    "lat": 39.9678025,
+    "lon": 32.7905369,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Yurtseven Fatih Eczanesi",
+      "phone": "+90 312 346 3213"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11932945770,
+    "lat": 39.9673416,
+    "lon": 32.7922325,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Önder Eczanesi",
+      "phone": "+90 312 345 5898"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11932945771,
+    "lat": 39.9683742,
+    "lon": 32.7898621,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Doğan Eczanesi",
+      "phone": "+90 312 346 1731"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11932948569,
+    "lat": 39.9668324,
+    "lon": 32.7895155,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Yayla Eczanesi",
+      "phone": "+90 312 346 9215"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11932948570,
+    "lat": 39.9667279,
+    "lon": 32.7888837,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Nur Furkan Eczanesi",
+      "phone": "+90 312 334 9660"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11986906269,
+    "lat": 39.971488,
+    "lon": 32.833623,
+    "tags": {
+      "addr:housenumber": "58/C",
+      "addr:street": "Etlik Caddesi",
+      "amenity": "pharmacy",
+      "name": "Avşaroğlu Eczanesi",
+      "phone": "+90 312 352 0835"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12045068969,
+    "lat": 39.9688011,
+    "lon": 32.7879507,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Çoruk Eczanesi",
+      "phone": "+90 312 346 7855"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12365644747,
+    "lat": 39.9599,
+    "lon": 32.7925999,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Baykal Eczanesi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12378364801,
+    "lat": 39.9774765,
+    "lon": 32.829551,
+    "tags": {
+      "addr:housenumber": "19/A",
+      "addr:postcode": "06010",
+      "addr:street": "Nurgül Sokak",
+      "amenity": "pharmacy",
+      "name": "Diriliş Eczanesi",
+      "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:30-19:00",
+      "phone": "03123520360"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12378372501,
+    "lat": 39.9773909,
+    "lon": 32.8294388,
+    "tags": {
+      "addr:housenumber": "21/A-B",
+      "addr:postcode": "06010",
+      "addr:street": "Nurgül Sokak",
+      "amenity": "pharmacy",
+      "name": "Hilal Taş Eczanesi",
+      "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:30-19:00",
+      "phone": "03123233325"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12640711069,
+    "lat": 39.9661202,
+    "lon": 32.7916559,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Yeni Vatan Eczanesi"
+    }
+  }
+]
