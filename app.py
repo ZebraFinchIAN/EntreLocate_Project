@@ -1,27 +1,21 @@
-# app.py
 import json
 import logging
 import requests
 from flask import Flask, render_template, request, jsonify, send_file, send_from_directory, session
 import os
 import uuid
-import threading # Added for background tasks
+import threading
 from geopy.geocoders import Nominatim
 from dotenv import load_dotenv
-# Only import LLMDrivenBusinessOrchestrator from app3
 from app3 import LLMDrivenBusinessOrchestrator
 
 load_dotenv()
 app = Flask(__name__)
 app.secret_key = os.environ.get('FLASK_SECRET_KEY', 'your_default_secret_key')
-# Configure logging for the main Flask application
 app.logger.setLevel(logging.INFO)
 
-# --- NEW: In-memory dictionary to store the status of background tasks ---
 TASK_STATUS = {}
-# --- END NEW ---
 
-# Ensure reports directory exists
 REPORTS_DIR = 'reports'
 os.makedirs(REPORTS_DIR, exist_ok=True)
 
@@ -63,7 +57,7 @@ TAG_MAPPING = {
     "florist": {"shop": "florist"},
 }
 
-def get_osm_type_local(category_name): # This function is defined and used within app.py
+def get_osm_type_local(category_name):
     for item in categories_data:
         if item["category"].lower() == category_name.lower():
             return item["type"]
