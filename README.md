@@ -22,6 +22,7 @@ AI/ML: Google Gemini API, SentenceTransformers (MiniLM-L6-v2)
 Database: ChromaDB for vector storage and semantic retrieval
 
 Other Tools: dotenv, PyMuPDF, OpenStreetMap, Overpass API
+elif sude memiş
 
 
 
