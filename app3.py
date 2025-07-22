@@ -1,4 +1,3 @@
-# app3.py
 import os
 import json
 import logging
@@ -15,7 +14,6 @@ from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 import requests
 from datetime import datetime
-
 from reportlab.lib.pagesizes import letter
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
@@ -23,7 +21,6 @@ from reportlab.lib.units import inch
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
-# --- Basic Configuration ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 load_dotenv()
@@ -39,7 +36,6 @@ except Exception as e:
     logging.error(f"Gemini configuration error: {e}")
     raise SystemExit(f"Gemini configuration error: {e}")
 
-# --- RAG & LLM Agent Prompts ---
 USER_DEFINED_GENERATION_CONFIG_DICT = {
     "temperature": 0.2,
     "top_p": 0.95,
@@ -131,36 +127,29 @@ Return strictly:
 }}
 """
 
-# --- RAG DATA LOADING & PROCESSING ---
 def load_and_process_csv_for_rag(csv_path='All_Districts_Data.csv'):
     """Loads the district data from the CSV, creates a document for each row, and prepares it for ChromaDB."""
     if not os.path.exists(csv_path):
         logging.error(f"FATAL: The required data file '{csv_path}' was not found.")
         raise FileNotFoundError(f"Data file not found: {csv_path}")
-    
-    # Use a raw string or double backslashes for the path
+
     df = pd.read_csv(csv_path, encoding='utf-8')
-    df.columns = [col.strip().replace('\ufeff', '') for col in df.columns] # Clean column names
-    df = df.apply(lambda x: x.str.strip() if x.dtype == "object" else x) # Clean string data
-    df.fillna("N/A", inplace=True) # Replace NaN with "N/A" string
+    df.columns = [col.strip().replace('\ufeff', '') for col in df.columns] 
+    df = df.apply(lambda x: x.str.strip() if x.dtype == "object" else x) 
+    df.fillna("N/A", inplace=True) 
 
     documents = []
     metadatas = []
     ids = []
 
     for index, row in df.iterrows():
-        # Create a single text block for the entire row
         doc_text = ", ".join([f"{col}: {val}" for col, val in row.items()])
         documents.append(doc_text)
-
-        # Create metadata for filtering. Ensure values are strings.
         metadata = {
             "city": str(row['City']),
             "district": str(row['District'])
         }
         metadatas.append(metadata)
-
-        # Create a unique ID
         doc_id = f"{row['City']}_{row['District']}_{index}"
         ids.append(doc_id)
         
@@ -172,7 +161,6 @@ embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(mo
 chroma_client = chromadb.Client()
 collection_name = "Turkish_Districts_SocioEconomic_Data"
 
-# Clean up old collection if it exists
 if collection_name in [col.name for col in chroma_client.list_collections()]:
     logging.warning(f"Deleting existing ChromaDB collection: '{collection_name}'")
     chroma_client.delete_collection(name=collection_name)
@@ -182,11 +170,9 @@ chroma_collection = chroma_client.create_collection(
     embedding_function=embedding_function
 )
 
-# --- POPULATE CHROMADB FROM CSV ---
 try:
     documents, metadatas, ids = load_and_process_csv_for_rag('All_Districts_Data.csv')
-    
-    # Add data to the collection in batches for efficiency
+
     batch_size = 100
     for i in range(0, len(documents), batch_size):
         chroma_collection.add(
