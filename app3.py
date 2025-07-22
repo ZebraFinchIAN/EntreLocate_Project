@@ -303,7 +303,7 @@ class BusinessDataFetcherAgent:
         except Exception as e:
             self.logger.error(f"Kategori verisi yüklenemedi: {e}")
             self.categories_data = []
-        self.requests = requests # Assign requests module
+        self.requests = requests
 
     def _get_osm_type_from_category(self, category_name: str) -> str | None:
         for item in self.categories_data:
@@ -388,7 +388,6 @@ class RAGRetrieverAgent:
     def __init__(self, synthesis_model_name: str = "gemini-1.5-flash-latest"):
         self.logger = logging.getLogger("Agent.SocioEconomicRAGAgent")
         self.logger.info("SocioEconomicRAGAgent initialized; using global chroma_collection.")
-        # This agent uses the globally defined and populated chroma_collection
         self.collection = chroma_collection
         self.synthesis_llm = Agent(name="RAGSynthesizer", role=RAG_SYNTHESIS_ROLE, model_name=synthesis_model_name)
         self.total_synthesis_llm_cost = 0.0
@@ -400,7 +399,6 @@ class RAGRetrieverAgent:
             return []
         try:
             self.logger.info(f"RAG: Querying for City='{city_name}' AND District='{district_name}' using metadata filter.")
-            # Use a precise metadata filter instead of a semantic search
             results = self.collection.get(
                 where={
                     "$and": [
